@@ -1,0 +1,34 @@
+tile.chemistrycraft_purifiedGlass.name=Purified Glass
+tile.chemistrycraft_gasHopper.name=Gas Hopper
+tile.chemistrycraft_gasCollector.name=Gas Collector
+tile.chemistrycraft_generatorCombustion=Combustion Generator
+
+tile.chemistrycraft_oreNickel.name=Nickel Ore
+tile.chemistrycraft_oreCopper.name=Copper Ore
+tile.chemistrycraft_oreZinc.name=Zinc Ore
+tile.chemistrycraft_oreSilver.name=Silver Ore
+tile.chemistrycraft_oreCadmium.name=Cadmium Ore
+tile.chemistrycraft_oreIndium.name=Indium Ore
+tile.chemistrycraft_oreTin.name=Tin Ore
+tile.chemistrycraft_oreTungsten.name=Tungsten Ore
+tile.chemistrycraft_oreOsmium.name=Osmium Ore
+tile.chemistrycraft_oreIridium.name=Iridium Ore
+tile.chemistrycraft_orePlatinum.name=Platinum Ore
+tile.chemistrycraft_oreLead.name=Lead Ore
+
+item.chemistrycraft_untreatedCork.name=Untreated Cork
+item.chemistrycraft_treatedCork.name=Treated Cork
+item.chemistrycraft_corkStopper.name=Cork Stopper
+item.chemistrycraft_purifiedVial.name=Purified Vial
+item.chemistrycraft_ingotNickel.name=Nickel Ingot
+item.chemistrycraft_ingotCopper.name=Copper Ingot
+item.chemistrycraft_ingotZinc.name=Zinc Ingot
+item.chemistrycraft_ingotSilver.name=Silver Ingot
+item.chemistrycraft_ingotCadmium.name=Cadmium Ingot
+item.chemistrycraft_ingotIndium.name=Indium Ingot
+item.chemistrycraft_ingotTin.name=Tin Ingot
+item.chemistrycraft_ingotTungsten.name=TungstenIngot
+item.chemistrycraft_ingotOsmium.name=Osmium Ingot
+item.chemistrycraft_ingotIridium.name=Iridium Ingot
+item.chemistrycraft_ingotPlatinum.name=Platinum Ingot
+item.chemistrycraft_ingotLead.name=Lead Ingot

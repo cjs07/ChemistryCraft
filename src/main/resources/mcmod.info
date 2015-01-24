@@ -1,0 +1,17 @@
+[
+{
+  "modid": "chemistrycraft",
+  "name": "Chemistry Cratf",
+  "description": "Adds chemistry into Minecraft. Decompose compounds into elements, synthesize new compounds, build a
+  particle collider, and more",
+  "version": "Indev0.0.1",
+  "mcversion": "${1.7}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["cjs07"],
+  "credits": "pugsRus123 for ideas, beta testing, and moral support.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
